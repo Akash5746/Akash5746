@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
 <h3 align="center">I'm a Web Developer✨ and currently studying Computer Science Engineering 🧑‍💻. I have strong skills in Web Development and data structures. These days, I’m focused on improving my understanding of data structures and learning more about algorithms and key concepts 🧠. I love trying new things, meeting new people 🐸, and learning something new every day 🤩.</h3>
-
+  
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on Research 
